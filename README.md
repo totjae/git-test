@@ -1,2 +1,1 @@
-# git-test
-git,gitstusy
+공부해요
